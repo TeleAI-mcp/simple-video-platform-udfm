@@ -1,2 +1,3 @@
-# simple-video-platform-udfm
-A video hosting platform for modern development workflows
+# Simple Video Platform Udfm
+
+A video hosting platform for modern development workflows.
